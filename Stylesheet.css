@@ -1,0 +1,29 @@
+h1 {
+  color: #30FF30;
+  border: 3px solid purple;
+  font-size: 3.0em;
+}
+
+ul {
+  color: blue;
+}
+
+body{
+  background: url(https://static.pexels.com/photos/128639/pexels-photo-128639.jpeg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+body{
+  font-family: cookie;
+  font-size: 20px;
+}
+li{
+  font-size: 1.5em;
+}
+/*Width and heigth bruges til at dele tingene op hvilket er bedst i %*/
+
+/*Padding giver plads på alle sidder*/
+
+/*Margin rykker selve "boxen" til en side eller alle veje
+Margin (top)px (right)px (buttom)px (left)px
+Margin 0 auto*/

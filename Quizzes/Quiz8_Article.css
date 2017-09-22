@@ -1,0 +1,29 @@
+body {
+  max-width: 700px;
+  width: 80%;
+  margin: 20px auto;
+  border: 15px rgb(150, 150, 150) solid;
+  padding: 20px;
+  font-family: cookie;
+  font-size: 20px;
+}
+.date {
+  color: rgb(30, 30, 255);
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  margin-top: 0;
+}
+h1 {
+  color: darkblue;
+}
+.post {
+  margin-bottom: 30px;
+}
+.FirstParagraf {
+  border-left: 3px lightgray solid;
+  padding-left: 5px;
+}
+hr {
+  height: 1px;
+  color: lightgray;
+}
