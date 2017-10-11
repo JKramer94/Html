@@ -1,11 +1,11 @@
 //Finder gemmensnitet af en række tal
 function average(arr) {
-    var result = 0;
+    var total = 0;
     for (var i = 0; i < arr.length; i++) {
-        result += arr[i];
+        total += arr[i];
     }
     //Dividere det samlet resultat med længden på det arr der er blevet brugt
-    avgNum = result / arr.length;
+    avgNum = total / arr.length;
     console.log(Math.round(avgNum));
 }
 //De arrays der sendes til functionen
